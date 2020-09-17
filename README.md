@@ -1,4 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+
+1.React
+2.Redux
+3.Testing Library
+4.Material UI
+
+![alt text](https://github.com/priyangamani/reactjs-car-cart/blob/master/screenshots/CarCart.png).
+![alt text](https://github.com/priyangamani/reactjs-car-cart/blob/master/screenshots/Screenshot%202020-09-18%20at%204.48.20%20AM.png).
 
 ## Available Scripts
 
