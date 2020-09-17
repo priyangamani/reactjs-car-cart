@@ -15,6 +15,17 @@ const useStyles = makeStyles((theme) => ({
     width: '32%',
  },
 
+ searchBar: {
+   alignItems: 'right',
+},
+textField:{
+   color:'#333',
+   fontSize:'24px'
+},
+right: {
+   marginLeft: 'auto'
+ }
+
 }));
 
 export default useStyles;
